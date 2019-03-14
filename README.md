@@ -32,5 +32,7 @@
 系统将自动运行并对超长的文本进行分割
 
 ![码上看世界](https://avatars3.githubusercontent.com/u/48540915?s=460&v=4)
+
 Facebook: https://facebook.com/codingtoworld
+
 Twitter：https://twitter.com/codingtoworld
