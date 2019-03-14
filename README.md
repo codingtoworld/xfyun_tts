@@ -29,7 +29,7 @@
 
 运行：python main.py 文本文件名
 
-系统将自动运行并对超长的文本进行分割
+系统将自动运行并对超长的文本进行分割，最终生成一个完整合成的mp3文件。
 
 ![码上看世界](https://avatars3.githubusercontent.com/u/48540915?s=460&v=4)
 
