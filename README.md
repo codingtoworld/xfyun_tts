@@ -15,7 +15,7 @@
 
 3、[下载ffmpeg软件](https://www.ffmpeg.org/download.html)，用于超长文件的多音频文件合并。
 
-3、准备好文本
+4、准备好文本
 
 
 ### 命令行输入文本
